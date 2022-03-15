@@ -24,7 +24,7 @@ export default function Jsxextension() {
     <div class="container">
       <p id={greeting}>How To Create React Elements with JSX</p>
       {displayAction && <p>I am writing JSX</p>}
-      {displayAction ? 'Hello World!ss' : 'False!'}
+      {displayAction ? 'Hello World!sshh' : 'False!'}
       <p>Mapping Over Data to Create Elements</p>
       <ul>
         {emojis.map((emoji) => (
